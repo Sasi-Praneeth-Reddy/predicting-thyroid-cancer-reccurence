@@ -19,13 +19,7 @@ To run the code in this project, you'll need:
     git clone https://github.com/Sasi-Praneeth-Reddy/predicting-thyroid-cancer-reccurence.git
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd CODE
-    ```
-
-3. Install the required libraries using pip:
+2. Install the required libraries using pip:
 
     ```bash
     pip install -r requirements.txt
