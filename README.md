@@ -35,11 +35,7 @@ To run the code in this project, you'll need:
 
 1. Ensure you have the dataset `Thyroid_Diff.csv` placed in the `data/` directory.
 
-2. Run the Python script `custom_classifiers.py` located in the `models/` directory:
-
-    ```bash
-    python models/custom_classifiers.py
-    ```
+2. Run the Python script `thyroid cancer.py` located in the directory.
 
 3. The script will generate various evaluation metrics and plots, including confusion matrices, ROC curves, accuracy comparison, and AUC comparison.
 
@@ -48,7 +44,7 @@ To run the code in this project, you'll need:
 ## Directory Structure
 
 - **data/**: Contains the dataset file `Thyroid_Diff.csv`.
-- **models/**: Contains the Python script `custom_classifiers.py` for implementing and evaluating custom classifiers.
+- **models/**: Contains the Python script `thyroid cancer.py` for implementing and evaluating custom classifiers.
 - **outputs/**: Contains output files such as confusion matrices, ROC curves, and comparison plots.
 - **tests/**: Directory for storing any test scripts or test data.
 
